@@ -17,12 +17,12 @@
     <rect width="1000" height="210" fill="url(#bg)"/>
 
     <!-- soft painterly wash, low opacity so it reads as texture not decoration -->
-    <g opacity="0.16" fill="none" stroke="#EFA43C" stroke-linecap="round">
-      <path d="M690 210 Q 780 96 900 128 T 1010 74" stroke-width="26" opacity="0.5"/>
-      <path d="M726 210 Q 826 130 938 158 T 1020 116" stroke-width="16" opacity="0.7"/>
+    <circle cx="872" cy="80" r="34" fill="#EFA43C" opacity="0.22"/>
+    <g opacity="0.3" fill="none" stroke="#EFA43C" stroke-linecap="round">
+      <path d="M690 210 Q 780 96 900 128 T 1010 74" stroke-width="26" opacity="0.55"/>
+      <path d="M726 210 Q 826 130 938 158 T 1020 116" stroke-width="16" opacity="0.75"/>
       <path d="M772 212 Q 880 168 968 190" stroke-width="9"/>
     </g>
-    <circle cx="905" cy="62" r="30" fill="#EFA43C" opacity="0.13"/>
 
     <text x="64" y="92" font-family="ui-sans-serif, -apple-system, BlinkMacSystemFont, Segoe UI, Helvetica, Arial, sans-serif"
           font-size="54" font-weight="700" fill="#F2F5FA" letter-spacing="-1">Roei</text>
