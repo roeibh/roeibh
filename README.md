@@ -4,9 +4,14 @@
 
 &nbsp;
 
-I work on application security and AI: systems that reason about vulnerabilities instead of
-pattern-matching them. Before that, security research and reverse engineering, then a long
-stretch building automation.
+Application security and AI, in production. Not a demo, not a notebook.
+
+The platform I work on scans hundreds of thousands of repositories and absorbs tens of thousands
+of events a day. Agents that reason about vulnerabilities instead of pattern-matching them, running
+against real codebases, with a pager attached. The model was never the hard part. Git internals
+were, and the 40 to 60x we clawed out of clone times to make any of it viable at that volume.
+
+Before this: security research and reverse engineering, then a long stretch in automation.
 
 Almost all of that lives in private repos, so this profile is the other half of the desk.
 Mostly **Claude Code skills**, each written because something annoyed me exactly one time too many.
