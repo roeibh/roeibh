@@ -2,7 +2,7 @@
 
 # Roei
 
-*AppSec × AI — agentic systems that reason about vulnerabilities, and tooling that makes coding agents behave*
+*AppSec × AI. Systems that reason about vulnerabilities, and tooling that makes coding agents behave*
 
 [![Claude Code skills](https://img.shields.io/badge/Claude_Code-skills-D97757?style=flat-square)](https://github.com/search?q=user%3Aroeibh+topic%3Aclaude-skills&type=repositories)
 [![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org)
@@ -13,11 +13,11 @@
 
 </div>
 
-I spend my days on application security and AI — building systems that reason about
+I spend my days on application security and AI, building systems that reason about
 vulnerabilities instead of pattern-matching them. Before that: security research, reverse
 engineering, and a long stretch in automation.
 
-Most of that work lives in private repos. What's here is the other half — the tooling I build
+Most of that work lives in private repos. What's here is the other half: the tooling I build
 because I got tired of fighting my own coding agents.
 
 > [!NOTE]
@@ -30,7 +30,7 @@ because I got tired of fighting my own coding agents.
 | --- | --- |
 | **[human-comments](https://github.com/roeibh/human-comments)** | Stops agents writing essay comments. Almost none survive, and the ones that do are fragments a senior engineer would actually leave. Ships as a Claude skill *and* a Cursor rule. |
 | **[interactive-spec](https://github.com/roeibh/interactive-spec)** | Turns a written spec into a clickable HTML mockup, then pipes your inline comments back to Claude. A closed review loop, not a one-shot mockup. |
-| **[marp-deck-architect](https://github.com/roeibh/marp-deck-architect)** | Builds Marp decks from four archetypes — Builder, Operator, Storyteller, Educator — that shape not just the theme, but how the deck gets written. |
+| **[marp-deck-architect](https://github.com/roeibh/marp-deck-architect)** | Builds Marp decks from four archetypes (Builder, Operator, Storyteller, Educator) that shape not just the theme, but how the deck gets written. |
 | **[interviewer-kit](https://github.com/roeibh/interviewer-kit)** | Turns a job description into a reusable interview template, then personalises it per candidate. |
 | **[morning-briefing](https://github.com/roeibh/morning-briefing-claude-plugin)** | Triages inbox, calendar and industry noise into one briefing with draft replies and ranked priorities. |
 
@@ -38,7 +38,7 @@ because I got tired of fighting my own coding agents.
 
 | Project | What it does |
 | --- | --- |
-| **[check-please](https://github.com/roeibh/check-please)** | Your chess.com games, opened in Lichess's engine. No signup, no paywall, no server — static files running in your browser. **[Try it →](https://roeibh.github.io/check-please/)** |
+| **[check-please](https://github.com/roeibh/check-please)** | Your chess.com games, opened in Lichess's engine. No signup, no paywall, no server. Just static files running in your browser. **[Try it →](https://roeibh.github.io/check-please/)** |
 | **[reload-window](https://github.com/roeibh/reload-window)** | A reload-window button in the VS Code status bar. Solves exactly one problem, completely. |
 | **[improve-prompt](https://github.com/roeibh/improve-prompt)** | CLI that rewrites a rough prompt into a better one. Works with any OpenAI-compatible API. |
 
@@ -57,6 +57,6 @@ git clone https://github.com/roeibh/<skill> ~/.claude/skills/<skill>
 
 <div align="center">
 
-:star: If one of these saves you an afternoon, star it — it's how the next person finds it.
+:star: If one of these saves you an afternoon, star it. It's how the next person finds it.
 
 </div>
